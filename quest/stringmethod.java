@@ -12,6 +12,7 @@ public class stringmethod {
         System.out.println(n);
         System.out.println(s);
         System.out.println(s2);
+        scn.close();
     }
     
 }
